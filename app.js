@@ -1,1 +1,1 @@
-console.log("Pizza de Strogonoff");
+console.log("Hello, World!");
